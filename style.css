@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: wheat;
+    font-family: gilroy;
+    scroll-behavior: smooth;
+}
+body{
+    background-color: black;
+}
+#main{
+   
+    cursor: pointer;
+}
